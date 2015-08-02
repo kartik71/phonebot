@@ -1,6 +1,6 @@
 ---
 applications:
-- name: phonebot 
+- name: skyvoice 
   memory: 256M 
   command: node app.js
   buildpack: https://github.com/jthomas/nodejs-buildpack.git
